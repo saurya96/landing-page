@@ -33,7 +33,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-blue-500/20 pt-8 text-center text-slate-400">
-          <p>© 2026 CodeLearn. All Rights Reserved. | Made with  by CodeLearn </p>
+          <p>© 2026 CodeLearn. All Rights Reserved. | Made with 💙 by CodeLearn Team</p>
         </div>
       </div>
     </footer>
